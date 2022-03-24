@@ -22,6 +22,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
+          THIS IS A DEV ENV
           Hello, I'm Sanzhar. I'm an engineering manager and software architect based out of Sydney. You can contact me on{' '}
           <a href="https://www.linkedin.com/in/kushekbayev">LinkedIn</a></p>
         <p>
